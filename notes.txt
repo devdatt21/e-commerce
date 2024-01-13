@@ -1,0 +1,6 @@
+npx  =>  
+its part of node and comes with npm, its bacsically node packege execute
+it runs the package from npm registry without installing it
+
+
+
